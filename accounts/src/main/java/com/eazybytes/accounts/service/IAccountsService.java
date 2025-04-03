@@ -7,7 +7,7 @@ public interface IAccountsService {
     /**
      * @param customerDto - CustomerDto Object
      */
-    void creatAccount(CustomerDto customerDto);
+    void createAccount(CustomerDto customerDto);
 
     /**
      * @param mobileNumber - Input Mobile Number

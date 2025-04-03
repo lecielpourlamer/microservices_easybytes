@@ -16,4 +16,5 @@ public class AccountsDto {
 
     @NotEmpty(message = "BranchAddress can not be a null or empty")
     private String branchAddress;
+
 }
